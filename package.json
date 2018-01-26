@@ -1,0 +1,17 @@
+{
+  "name": "tend-contract-reader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:validitylabs/TendContractReader.git",
+  "author": "Validity Labs",
+  "license": "MIT",
+  "engines": {
+    "node": "^8.x"
+  },
+  "scripts": {
+    "get-unsettled-investments": "node ./get-unsettled-investments.js"
+  },
+  "dependencies": {
+    "web3": "1.0.0-beta.28"
+  }
+}

@@ -1,0 +1,12 @@
+.idea
+.eslintcache
+.DS_Store
+node_modules
+/bin
+/build
+/dist
+/coverage*
+/db
+.secrets.json
+
+/unsettled-investments.json
